@@ -11,5 +11,8 @@ def divide(x,y):
     pass
 
 #Multiplication implementation
-def multiply(x,y): 
+def multiply(x,y): 	
     return x*y
+
+def square(x):
+    return x*x
